@@ -29,7 +29,7 @@
 <hr style="border: 1px solid white;">
 
 <div align="center" >
-    <a href="https://github.com/Vinaykumarmahato">
+    <a href="https://github.com/voscanoa">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=voscanoa&theme=transparent" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voscanoa&theme=transparent" width="32.5%">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=voscanoa&theme=transparent" width="32.5%">
