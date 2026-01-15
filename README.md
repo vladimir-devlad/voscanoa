@@ -2,25 +2,29 @@
 <!-- <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5qaW02bGFocDMxbnhjdWkydmluenc3cjVkOWp1ZmljN253YjJmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XUbTAZTIew3G7tBG71/giphy.gif" width="100"/> 
 </p> -->
-<h1 align="center">Vladimir Oscanoa</h1>
+<h1 align="center">DEVLAD - Vladimir Oscanoa</h1>
 <p align="center">
-  <em>Software Engineer • Tech Enthusiast</em>
+  <em>Software Engineer</em>
 </p>
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&center=true&vCenter=true&width=500&lines=Software+Engineer;Python+Developer;Building+Real+Projects;Learning+Every+Day" alt="Typing SVG" />
 </p> -->
 <p align="center">
-  Passionate about building clean, scalable software and continuously improving through real-world projects.
+  <!-- Passionate about building clean, scalable software and continuously improving through real-world projects. -->
+  Software engineer focused on building clean, maintainable software and continuously improving through hands-on, real-world projects.
 </p>
 
 <h3>About Me</h3>
+Software engineer with a **Bachelor's degree in Computer Science**, currently pursuing a degree in Systems Engineering. I have experience in software development and UX/UI design, with a strong interest in creating practical and efficient solutions to real problems.
 
-I hold a **Bachelor's degree in Computer Science** and I am currently pursuing a degree in Systems Engineering, with experience in software development and UX/UI design. I love tackling complex challenges and creating innovative solutions that make a tangible impact.
+I enjoy working on challenging problems, improving existing codebases, and learning best practices in software development.
 
-- I enjoy **solving difficult problems** and finding creative and efficient solutions.  
-- Experienced in **user-centered design, UX/UI, and agile methodologies**.  
-- Passionate about **learning new technologies** constantly, currently exploring **Nest.js and Angular**.  
-- Enjoy working on projects that combine **creativity, innovation, and productivity**.
+<h3>Focus Areas</h3>
+
+- Clean and maintainable code
+- Backend and application development fundamentals
+- UX-aware and user-centered solutions
+- Agile workflows and collaborative development
 
 <br>
 <br>
@@ -31,9 +35,9 @@ I hold a **Bachelor's degree in Computer Science** and I am currently pursuing a
   <a href="#">
     <img src="https://img.shields.io/badge/-Website-00AB33?style=flat-square&logo=Google-Chrome&logoColor=white">
   </a>
-  <a href="mailto:contato@">
+  <!-- <a href="mailto:contato@">
     <img src="https://img.shields.io/badge/-contato@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
+  </a> -->
 </p>
 
 <!-- <hr style="border: 0.2px solid white;"> -->
